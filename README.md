@@ -11,7 +11,7 @@ It is not known when Hugonot started this performance/artwork, but it has probab
 If you are wandering in Strasbourg, in the Krutenau area, you might come across Hugonot's work. Take a look at those concrete columns known as "colonnes Morris", between concert banners and party posters.
 If you spot something, please take a picture and send it to me trackinghugonot@gmail.com (including date and GPS coordinates would be awesome !).
 
-![A text by Hugonot](raw/pictures/20131230_ColonnesMorris/DSC07458.JPG "Hugonot on a 'colonne Morris'")
+![A text by Hugonot](DSC07458mini.png "Hugonot on a 'colonne Morris'")
 
 # Reading clues
 ## Planet of the Apes
