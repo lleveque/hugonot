@@ -7,11 +7,11 @@ This is a data repository about Strasbourg-based artist Hugonot P. and his ongoi
 Hugonot's work is mainly made of inscriptions on advertising columns in the Krutenau area, in Strasbourg. Inscriptions can be short or long, in any color and usually don't make a lot of sense by themselves. They are eventually covered by new ads and posters, and disappear.
 It is not known when Hugonot started this performance/artwork, but it has probably been going on for more than a decade as of 2014. The ephemeral nature of his work makes it difficult to track and document.
 
+![A text by Hugonot](DSC07458mini.png "Hugonot on a 'colonne Morris'")
+
 # Contribute !
 If you are wandering in Strasbourg, in the Krutenau area, you might come across Hugonot's work. Take a look at those concrete columns known as "colonnes Morris", between concert banners and party posters.
 If you spot something, please take a picture and send it to me trackinghugonot@gmail.com (including date and GPS coordinates would be awesome !).
-
-![A text by Hugonot](DSC07458mini.png "Hugonot on a 'colonne Morris'")
 
 # Reading clues
 ## Planet of the Apes
