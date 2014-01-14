@@ -15,13 +15,15 @@ If you spot something, please take a picture and send it to me trackinghugonot@g
 
 # Reading clues
 ## Planet of the Apes
-Hugonot's work is inspired by [La Planète des Singes](http://en.wikipedia.org/wiki/Planet_of_the_Apes_(novel)), a book written by french author Pierre Boulle in 1963. The character Dr. Zaïus is mentioned regularly as the Simian leader.
+Hugonot's work is inspired by [La Planète des Singes](http://en.wikipedia.org/wiki/Planet_of_the_Apes_(novel)), a book written by french author Pierre Boulle in 1963. Apart from the book, the character Dr. Zaïus in particular is mentioned regularly as the Simian leader.
 ## Durations, dates and ages
 The most recurrent item in the inscriptions is probably "43 years/day". This mention hasn't changed over the years.
-Another item is "20 years"
+Another item is "20 years".
 ## Hearts
 Whenever a heart appears in the writings, it is to be read as the word "vivant" (living) such as in "être ♥", "être vivant". This clue has been given by Hugonot himself.
 ## Christianity
 Some references to Jesus-Christ (mostly for dates) and to God are also to be found.
 ## Names ###
 Apart from his signature ("HUGONOT P.") and the name of Zaïus, the artist also writes "REMETTER CHRISTINE" regularly.
+## Formatting ##
+Text is mainly uppercase but portions are lowercase. Most of the text is also underlined and sometimes paragraphs are surrounded by a heart.
