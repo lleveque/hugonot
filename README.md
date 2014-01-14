@@ -12,6 +12,7 @@ It is not known when Hugonot started this performance/artwork, but it has probab
 # Contribute !
 If you are wandering in Strasbourg, in the Krutenau area, you might come across Hugonot's work. Take a look at those concrete columns known as "colonnes Morris", between concert banners and party posters.
 If you spot something, please take a picture and send it to me trackinghugonot@gmail.com (including date and GPS coordinates would be awesome !).
+If you know how to use git, you can also submit pull requests to this repository. Any help is welcome !
 
 # Reading clues
 ## Planet of the Apes
